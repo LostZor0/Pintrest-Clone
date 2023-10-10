@@ -1,3 +1,3 @@
 # Pintrest-Clone
 
-Made using HTML5 and CSS3
+A Responsive pintrest clone made using HTML5 and CSS3.
